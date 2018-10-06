@@ -17,7 +17,7 @@ How it works:
 
 (If you want to hack passwords fastely:)
 
-> Open WebBrowserPassView in green force (works only in windows)
+> Open WebBrowserPassView in green force on victim's computer (works only in windows)
 
 (-> plugins -> WebBrowserPassView plugin -> WebBrowserPassView.exe this is easy path to hack passwords!)
 
