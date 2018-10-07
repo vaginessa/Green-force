@@ -21,7 +21,7 @@ How it works:
 
 (-> plugins -> WebBrowserPassView plugin -> WebBrowserPassView.exe this is easy path to hack passwords!)
 
-For more comfort you can download WebBrowserPassView and work wihout any codes and library
+For more comfort you can download WebBrowserPassView and work without any codes and library:
 
 > https://github.com/entynetproject/WebBrowserPassView-plugin
 
