@@ -1,2 +1,0 @@
-[AutoRun]
-open="fail.bat"
