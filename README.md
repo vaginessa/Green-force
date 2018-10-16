@@ -27,7 +27,7 @@ In this latest version (how it works?):
 
 (-> plugins -> WebBrowserPassView plugin -> WebBrowserPassView.exe this is easy path to hack passwords!)
 
-Green force include more plugins such as:
+Green force include a lot of plugins such as:
 
 ![agent-main](https://user-images.githubusercontent.com/43011806/46411900-9dcd6080-c725-11e8-9eb9-492d9c1b3954.png)
 ![46359326-b0865d80-c671-11e8-85b7-043be5353632](https://user-images.githubusercontent.com/43011806/46412082-2ba94b80-c726-11e8-938f-80f405f30762.png)
