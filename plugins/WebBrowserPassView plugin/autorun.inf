@@ -1,9 +1,0 @@
-[autorun]
-open=WebBrowserPassView.exe
-icon=Webbrowserpassview.exe
-label=Running WebBrowserPassView
-
-[Content]
-MusicFiles=false
-PictureFiles=false
-VideoFiles=false
