@@ -9,7 +9,7 @@ To start using our programm:
  
 How it works:
 
-In this version (how it works?):
+In this latest version (how it works?):
 
 > open Green force programm on victims computer!!!
 
