@@ -27,12 +27,6 @@ In this latest version (how it works?):
 
 (-> plugins -> WebBrowserPassView plugin -> WebBrowserPassView.exe this is easy path to hack passwords!)
 
-For more comfort you can download WebBrowserPassView and work without any codes and library:
-
-> https://github.com/entynetproject/WebBrowserPassView-plugin
-
-> or this: https://github.com/entynetproject/Green-force-computer-pass
-
 This version include three Green force plugins:
 
 ![agent-main](https://user-images.githubusercontent.com/43011806/46411900-9dcd6080-c725-11e8-9eb9-492d9c1b3954.png)
