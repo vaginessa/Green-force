@@ -9,7 +9,13 @@ To start using our programm:
  
 How it works:
 
-(If you want to hack passwords slowly:)
+In this version (how it works?):
+
+> open Green force programm on victims computer!!!
+
+> copy passwords and you will can go to celebrate it!!!
+
+(If you want to hack passwords slowly in Batch version:)
 
 > Open bat file on victim’s computer (works only in windows).
 
