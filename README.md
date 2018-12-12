@@ -4,6 +4,7 @@
 <a href="https://github.com/entynetproject">
     <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
   </a> 
+
 About: This is library of stealer forces (batch files) for USB rubber. This scripts made for hackers to hack cookie files, login accounts and other passwords. NO LIESENSE!!! DO IT ON YOUR RISK!!! THIS IS DANGEROUS HACKERS TOOL!!!
 
 To start using our programm:
